@@ -42,8 +42,8 @@ body {
 }
 
 canvas {
-    border: 10px;
-    box-shadow: 5px 5px 5px grey;
+    border: 5px solid whitesmoke;
+    border-radius: 20px;
 }
 
 .play_button {
