@@ -46,7 +46,8 @@ canvas {
     border-radius: 20px;
 }
 
-.play_button {
+.play_button,
+.stop_button {
     width: 130px;
     font-size: 25px;
 }
