@@ -19,6 +19,7 @@ body {
 
 .div_speed_img {
     width: 200px;
+    height: 250px;
     border-radius: 100px;
 }
 
@@ -42,12 +43,11 @@ body {
 }
 
 canvas {
-    border: 5px solid whitesmoke;
+    border: 5px solid white;
     border-radius: 20px;
 }
 
-.play_button,
-.stop_button {
+.play_button {
     width: 130px;
     font-size: 25px;
 }

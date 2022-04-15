@@ -86,7 +86,3 @@ function play() {
     song.setVolume(1);
     song.rate(1);
 }
-
-function Stop() {
-    song.stop();
-}
